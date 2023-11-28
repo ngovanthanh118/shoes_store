@@ -1,0 +1,47 @@
+.login-in {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 60px;
+}
+.login-in h1{
+    color: #000;
+    font-size: 1.8rem;
+    font-weight: 900;
+    margin-bottom: 8px;
+}
+.login-in form div
+{
+    margin: 12px 0;
+}
+.login-in form label{
+    font-size: 0.9rem;
+    color: #000;
+}
+.login-in form input{
+    width: 100%;
+    border: 1px solid #ccc;
+    border-radius: 32px;
+    padding: 12px 24px;
+    margin: 4px 0;
+}
+.login-in form input.login{
+    background-color: red;
+    color: white;
+    font-size: 0.9rem;
+    font-weight: 700;
+}
+.login-in form p{
+    font-size: 0.9rem;
+    font-weight: 400;
+    color: #000;
+    margin: 0 8px;
+}
+.login-in form p a{
+    text-decoration: none;
+    color: red;
+    font-size: 0.9rem;
+    font-weight: 500;
+    margin-left: 4px;
+}

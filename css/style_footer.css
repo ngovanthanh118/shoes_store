@@ -1,0 +1,23 @@
+.footer {
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    padding: 16px 0;
+}
+.list-social {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style-type: none;
+}
+
+.list-cocial-link {
+    padding: 12px 16px;
+    color: #000;
+}
+
+.footer p {
+    text-align: center;
+    margin: 12px 0;
+}
