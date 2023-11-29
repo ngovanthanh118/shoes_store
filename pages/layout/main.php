@@ -1,4 +1,4 @@
-<div class="main-content">
+<section class="main-content">
     <?php
     if (isset($_GET['quanly'])) {
         $bientam = $_GET['quanly'];
@@ -69,4 +69,4 @@
 
     }
     ?>
-</div>
+</section>

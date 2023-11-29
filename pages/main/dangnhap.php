@@ -28,7 +28,7 @@ if (isset($_POST['dangnhap'])) {
     <form method="post" action="" class="login-form">
         <div>
             <label>Tài khoản</label>
-            <input type="text" name="taikhoan" placeholder="email@example.com" />
+            <input type="text" name="taikhoan" placeholder="vana123" />
         </div>
         <div>
             <label>Mật khẩu</label>
