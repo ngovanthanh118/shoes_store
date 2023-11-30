@@ -1,6 +1,6 @@
 <?php
 $severname = "localhost";
-$username = "root";
+$username = "bhv";
 $password = "11082002";
 $database = "web_ban_giay";
 
